@@ -1,0 +1,30 @@
+[ 2017-12-23T20:57:19+08:00 ] ::1 /autoyj/Public/img/crop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+ERR: 无法加载模块:PUBLIC
+
+[ 2017-12-23T21:03:52+08:00 ] ::1 /autoyj/Public/img/crop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+ERR: 无法加载模块:PUBLIC
+
+[ 2017-12-23T21:04:23+08:00 ] ::1 /autoyj/Public/img/crop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:PUBLIC
+
+[ 2017-12-23T21:05:23+08:00 ] ::1 /autoyj/Public/img/crop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:PUBLIC
+
+[ 2017-12-23T21:06:01+08:00 ] ::1 /autoyj/Public/img/crop.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:PUBLIC
+

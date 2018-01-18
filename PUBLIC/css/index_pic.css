@@ -1,0 +1,12 @@
+#test_paper {
+	/*上右下左*/
+	margin: 2cm 5cm 0cm 5cm;
+}
+#message{
+	background-color:greenyellow;
+	width:30%; height:2.8em;
+	margin:0m auto;
+	overflow:hidden;
+	position: fixed; 
+	top:0;
+}
